@@ -1,2 +1,2 @@
-# curso-de-java-spring-jdbctemplate
+# Java Spring
 Exemplos do curso "Java Spring: JDBCTemplate" da DevMedia
